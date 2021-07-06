@@ -3,7 +3,7 @@
 Till now, i'm interested in Data science and NLP 
 
 ![linkedin-logo]({https://user-images.githubusercontent.com/40309064/124636498-e68f4680-de88-11eb-828d-b7d1bb50b3b1.png}) : https://www.linkedin.com/in/m-ayman97/
-
+<img src="{https://user-images.githubusercontent.com/40309064/124636498-e68f4680-de88-11eb-828d-b7d1bb50b3b1.png}" />
 my Kaggle profile : https://www.kaggle.com/muhammadayman
 
 <!--
