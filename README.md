@@ -2,10 +2,10 @@
 
 Till now, i'm interested in Data science and NLP 
 
-<img src="{https://www.linkedin.com/in/m-ayman97/}" />
+<img src="{https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white}" />
 
 
-
+https://www.linkedin.com/in/m-ayman97/
 my Kaggle profile : https://www.kaggle.com/muhammadayman
 
 <!--
