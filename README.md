@@ -1,3 +1,4 @@
+![linkedin-logo](https://user-images.githubusercontent.com/40309064/124637168-ae3c3800-de89-11eb-9db6-e2b5ee766d6e.png)
 ### Hello World 👋
 
 Till now, i'm interested in Data science and NLP 
