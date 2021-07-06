@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hello World 👋
+
+Till now, i'm interested in Data science and NLP 
+
+my linkedin profile : https://www.linkedin.com/in/m-ayman97/
+my Kaggle profile : https://www.kaggle.com/muhammadayman
 
 <!--
 **muhammadayman97/muhammadayman97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
