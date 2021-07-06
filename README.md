@@ -2,7 +2,8 @@
 
 Till now, i'm interested in Data science and NLP 
 
-my linkedin profile : https://www.linkedin.com/in/m-ayman97/
+![image]({https://eg.linkedin.com}) : https://www.linkedin.com/in/m-ayman97/
+
 my Kaggle profile : https://www.kaggle.com/muhammadayman
 
 <!--
