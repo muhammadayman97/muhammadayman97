@@ -1,12 +1,8 @@
-![linkedin-logo](https://user-images.githubusercontent.com/40309064/124637168-ae3c3800-de89-11eb-9db6-e2b5ee766d6e.png)
 ### Hello World 👋
 
 Till now, i'm interested in Data science and NLP 
 
-<img src="{https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white}" />
-
-
-https://www.linkedin.com/in/m-ayman97/
+my Linkedin profile : https://www.linkedin.com/in/m-ayman97/
 my Kaggle profile : https://www.kaggle.com/muhammadayman
 
 <!--
