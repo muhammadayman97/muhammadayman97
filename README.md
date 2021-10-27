@@ -1,6 +1,6 @@
 ### Hello World 👋
 
-Till now, i'm interested in Data science and NLP 
+Till now, i'm interested in Data Science and NLP 
 
 Linkedin profile : https://www.linkedin.com/in/m-ayman97/
 
